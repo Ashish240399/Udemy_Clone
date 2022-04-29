@@ -29,8 +29,6 @@ Install-project with git
  - [Udemy.com](https://www.udemy.com/)
  - [Masai School](https://masaischool.com/)
 
-## Deployed link
-🔹 Live Demo [click here](https://cloneudemy.netlify.app/)
 
 ## 🛠 Tech Stacks
 - #### EJS
